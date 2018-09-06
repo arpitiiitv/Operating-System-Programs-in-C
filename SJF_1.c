@@ -17,7 +17,7 @@ int main()
    /*
    @Normal table formation
    */
-    printf("\n           *** Table ***     ");
+    printf("\n           *** Table ***      ");
     printf("\n+=================================+\n");
     printf("|  Process | Arrival  | BurstTime |\n");
     int a;
